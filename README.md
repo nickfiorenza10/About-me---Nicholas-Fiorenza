@@ -11,3 +11,5 @@ Python · OpenCV · YOLO · Git/GitHub · HTML/CSS · Unity · Claude Code · No
 
 ### Connect
 [LinkedIn](https://www.linkedin.com/in/nick-fiorenza-9663452ab/)
+
+Github to me continues to serve as an amazing resource to document any projects I am currently working on to employers and also for myself, it's also a very important collaboration tool when working with a team on a technical project as well.
